@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 自修室去水印V1.0",
+  "description": "基于Google Gemini Nano Banana模型的智能图像去水印工具，提供交互式涂抹消除功能。",
+  "requestFramePermissions": []
+}
